@@ -1,1 +1,1 @@
-MOViE APP
+This is MOVIE APP
